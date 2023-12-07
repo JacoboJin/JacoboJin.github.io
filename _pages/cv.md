@@ -18,6 +18,11 @@ Education
 Work experience
 ======
 
+* Summer 2023: Digital IC Design Engineer
+  * ConvenientPower
+  * Duties included: Digital IC Design
+  * Supervisor: Ph.D Zhang
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
