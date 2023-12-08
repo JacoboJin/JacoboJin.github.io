@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 
-* M.S. in Microelectronics, Shanghai University, 2024
-* B.E in Communication, Hangzhou City University, 2021
+* M.S. in Microelectronics, Shanghai University,     |2021.9--2024.7
+* B.E in Communication, Hangzhou City University,    |2017.9--2021.7
 
 Work experience
 ======
