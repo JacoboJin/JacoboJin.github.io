@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ------
-I'm a third postgraduate from [Microelectronics R&D Center](https://mec.shu.edu.cn), [Shanghai University](https://mec.shu.edu.cn). My research interest includes digital integrated circuit design, hardware security and computer vision.
+I'm a third postgraduate from [Microelectronics R&D Center](https://mec.shu.edu.cn), [Shanghai University](https://www.shu.edu.cn). My research interest includes digital integrated circuit design, hardware security and computer vision.
 
 I'm very fortunate to be advised by Prof.Yan.
 
